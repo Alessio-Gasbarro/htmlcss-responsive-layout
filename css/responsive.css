@@ -87,3 +87,12 @@
         justify-content: space-between;
     }
 }
+
+/*--Mode Large Mobile--*/
+
+@media screen and (min-width: 576px){
+    .social-networks button{
+        padding: 10px 35;
+    }
+
+}
