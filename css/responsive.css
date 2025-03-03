@@ -8,6 +8,8 @@
 
 /* Soluzione qui */
 
+/*-TABLET-*/
+
 @media screen and (min-width: 768px){
     #topbar{
         justify-content: flex-start;
@@ -20,4 +22,19 @@
     .recipe-origin{
         display: inline-block;
     }
+
+    .recipe-name{
+        font-size: 30px;
+    }
+
+    .social-networks button{
+        padding: 10px 50px;
+    }
+
+    .quick-notes li{
+        width: 30%;        
+        display: inline-block;
+    }
+
+
 }
