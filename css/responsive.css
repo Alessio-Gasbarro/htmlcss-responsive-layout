@@ -65,5 +65,16 @@
         font-size: 40px;
     }
 
+    .quick-notes li{
+        width: 100%;
+    }
+
+    .social-networks button{
+        padding: 10px 30px;
+    }
+
+    .social-networks .label{
+        display: inline-block;
+    }
 
 }
