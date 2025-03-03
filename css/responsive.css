@@ -52,4 +52,12 @@
     .recipe-card{
         display: flex;
     }
+
+    .recipe-info{
+        width: 25%;
+    }
+
+    .recipe-card{
+        display: flex;
+    }
 }
