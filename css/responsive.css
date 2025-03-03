@@ -19,8 +19,17 @@
         padding: 30px
     }
 
+    .clearfix img{
+        margin: 10px;
+        float: left;
+    }
+
     .recipe-origin{
         display: inline-block;
+    }
+
+    .ads{
+        display: block;
     }
 
     .recipe-name{
@@ -35,6 +44,12 @@
         width: 30%;        
         display: inline-block;
     }
+}
 
+/*-DESKTOP-*/
 
+@media screen and (min-width: 992px){
+    .recipe-card{
+        display: flex;
+    }
 }
