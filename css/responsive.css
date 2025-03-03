@@ -1,1 +1,15 @@
+/*--Little fix!--*/
+
+.recipe-video img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 /* Soluzione qui */
+
+@media screen and (min-width: 768px){
+    #topbar{
+        justify-content: flex-start;
+    }
+}
