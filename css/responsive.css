@@ -77,4 +77,13 @@
         display: inline-block;
     }
 
+    address{
+        text-align: left;
+    }
+
+    footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
 }
