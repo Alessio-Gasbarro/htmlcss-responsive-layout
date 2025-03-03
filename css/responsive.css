@@ -57,7 +57,13 @@
         width: 25%;
     }
 
-    .recipe-card{
-        display: flex;
+    .recipe-video{
+        width: 75%;
     }
+
+    .recipe-name{
+        font-size: 40px;
+    }
+
+
 }
